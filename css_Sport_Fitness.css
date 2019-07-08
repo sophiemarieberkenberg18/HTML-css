@@ -1,123 +1,90 @@
 .header {
-                 background-color: grey;
-                 text-align: center;
-                 padding: 20px;
+    background-color: grey;
+    text-align: center;
+    padding: 20px;
 }
 
+.body {
+    text-align: center;
+    width: 10%;
+    color: black;
+    font-family: arial;
+}
 
-
-         }
-
-.body    {               text-align: center;
-                         height: 45px;
-                         width: 10%;
-                         background-color: aqua;
-                         color: black;
-                         font-family: arial;
-        }
-
-
-
-
-
-         }
-
-.left    {
-                 background-color: aqua;
-                 height: 45px;
-                 width: 10%;
-
-         }
+.left {
+    background-color: aqua;
+    width: 20%;
+    float: left;
+}
 
 .center {
-                 background-color: aqua;
-
-
-
-
-         }
+    background-color: aqua;
+    float: left;
+    width: 80%;
+}
 
 .right {
-               background-color: yellow;
-
-
-         }
+    background-color: yellow;
+}
 
 h2 {
+    font-family: arial;
+    color: black;
+}
 
-                       font-family:arial;
-                       color: black;
-                       }
-
-
-
-  h1 {
-                         color: blue;
-     }
+h1 {
+    color: blue;
+    background-color: grey;
+}
 
 table {
-                         border: 3px solid black;
-                         background-color: lime;
-         }
-
-
+    border: 3px solid black;
+    background-color: lime;
+    width: 100%;
+}
 
 th {
-         font-family:arial;
-         background-color: yellow;
-   }
+    font-family: arial;
+    background-color: yellow;
+}
 
+ul {
+    font-family: arial;
+    background-color: aqua;
+}
 
-          }
+h2 {
+    background-color: aqua;
+    font-family: arial;
+    width: 10%;
+}
 
+tr {
+    background-color: yellow;
+    font-family: arial;
+}
 
+p {
+    height: 380px;
+    width: 10%;
+    color: black;
+    font-family: arial;
+    background-color: aqua;
+}
 
- ul {
-                         font-family:arial;
-                         background-color: aqua;
-         }
+li {
+    font-family: arial;
+    background-color: aqua;
+}
 
- h2  {
-                 background-color: aqua;
-                 font-family: arial;
-                  width: 10%;
-     }
- tr   {
-                 background-color: yellow;
-                 font-family: arial;
-                 width: 100px;
-                 height: 450px;
-     }
+a {
+    font-family: arial;
+    background-color: pink;
+}
 
-
-p        {
-                         height: 380px;
-                         width: 10%;
-                         color: black;
-                         font-family:arial;
-                         background-color: aqua;
-         }
-
-li       {
-                 font-family: arial;
-                 background-color: aqua;
-                 height: 100px;
-                         width: 10%;
-         }
-
-a        {
-                 font-family: arial;
-                 background-color: pink;
-         }
-
-
-h4       {
-                 height: 20px;
-                         width: 10%;
-                 font-family: arial;
-                 background-color: aqua;
-         }
-
-
-
-
+h4 {
+    height: 20px;
+    width: 10%;
+    font-family: arial;
+    background-color: aqua;
+}
